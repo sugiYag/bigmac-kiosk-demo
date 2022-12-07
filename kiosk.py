@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.write("Student ID : 21900432")
+st.write("Name       : 양정숙")
+
 st.title("Order")
 
 st.image("menu.png", width=300)
